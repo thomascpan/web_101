@@ -1,0 +1,22 @@
+* {
+  box-sizing:border-box;
+  -moz-box-sizing:border-box;
+  -webkit-box-sizing:border-box
+}
+
+#new {
+	margin: 20px auto;
+	display: block; 
+}
+.container{
+	margin: 20px 400px;
+}
+
+.square {
+	background-color: gray;
+	float: left;
+}
+
+.drawn {
+	background-color: black;
+}
