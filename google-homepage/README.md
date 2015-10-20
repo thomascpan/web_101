@@ -6,4 +6,4 @@ Description: A [Google](https://www.google.com/) webpage. HTML/CSS only.
 
 Author(s): Thomas Pan
 
-Preview: 
+Preview: https://rawgit.com/thomascpan/web_101/master/google-homepage/index.html

@@ -6,8 +6,7 @@ Description: Now that you know what web developers do, it's time to start thinki
 
 List of Projects:
 * Google Homepage
-* Blog
-* Project Ruby
 * Sketchpad
+* Project Ruby
 
 Author(s): Thomas Pan
